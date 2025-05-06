@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/pudhh/OneDrive/Documentos/estrutura de dados/Agenda Hero to Super Hero",
+      "program": "c:/Users/pudhh/OneDrive/Documentos/estrutura de dados/Agenda Hero to Super Hero/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
