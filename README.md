@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 - **Adicionar** novo contato com nome e telefone  
 - **Listar** todos os contatos salvos  
